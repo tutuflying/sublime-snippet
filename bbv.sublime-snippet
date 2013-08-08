@@ -7,5 +7,5 @@ var ${1:App} = Backbone.View.extend({
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bbv</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope></scope>
+	<scope>text.html,source.js</scope>
 </snippet>
